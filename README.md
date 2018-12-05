@@ -30,11 +30,11 @@ Requires some code cleanup and foolproofing.
 
 * Fasta file has to be properly formatted, like this:
 
->3-12
+\>3-12
 ACCACACA
->4-4343
+\>4-4343
 CCGAGCGACGA
->5-77
+\>5-77
 CCACCCACACCACACA
 
 
